@@ -1,6 +1,6 @@
 # PLP
 PLP for CentraleSupelec
 
-Aieocha Li
+Aeiocha Li
 Fatma Jerad
 Lyoson Lenus
